@@ -189,15 +189,34 @@ body {
 	height:92px;
 	z-index:14;
 }
+#apDiv4 {
+	position:absolute;
+	left:96px;
+	top:146px;
+	width:1211px;
+	height:129px;
+	z-index:15;
+}
+.TextNavigation {
+	list-style-type: none;
+	float: left;
+	width: 150px;
+}
+.TextNavigation a {
+}
+.TextNavigation a:hover {
+}
 </style>
 </head>
 
 <body>
 <div id="apDiv2"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/Title fonts 2.png" width="716" height="86" /></div>
-<div id="apDiv12"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/About sidebar.png" width="228" height="124" /></div>
-<div id="apDiv13"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/Service Sheets sidebar.png" width="221" height="125" /></div>
-<div id="apDiv14"><a href="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/F/SUBPAGE TEMPLATE FINAL NEW EVENTS PAGE.dwt"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/Events sidebar.png" width="229" height="122" /></a></div>
-<div id="apDiv15"><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/Photos sidebar.png" width="223" height="122" /></div>
+<div id="apDiv4"><ul>
+<li class="TextNavigation"><a href="../About.html">About</a></li>
+<li class="TextNavigation"><a href="../Events page .html">Events</a></li>
+<li class="TextNavigation"><a href="../Screen Shot 2015-03-23 at 2.53.04 PM.png">Photo</a></li>
+<li class="TextNavigation"><a href="../ServiceSheets.html">Service hour sheets</a></li>
+</ul></div>
 <!-- TemplateBeginEditable name="Contents" -->
 <div id="apDiv21">
   <p><img src="file:///Macintosh HD/Users/CTD-2/Desktop/Jo Eun/Github/Final-Website 2/F/about sbtitle.png" width="227" height="73" /></p>
