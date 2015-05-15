@@ -2,7 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
+<!-- TemplateEndEditable -->
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
@@ -50,17 +52,18 @@ Text navigation {
 	list-style-type: none;
 }
 </style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
-<!-- TemplateBeginEditable name="EditRegion1" -->
 <div id="apDiv2"></div>
-<!-- TemplateEndEditable -->
+<div id="apDiv2"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></div>
 <div id="apDiv3"><ul>
-<li class="TextNavigation"><a href= "index.html">Planning Site</a></li>
-<li class="TextNavigation"><a href="Making Homepage.html">Making My Homepage</a></li>
-<li class="TextNavigation"><a href="Making Subpages.html">Making My Subpages</a></li>
-<li class="TextNavigation"><a href="WP6 Navigation.html">Navigations</a></li>
+<li class="TextNavigation"><a href= "../index.html">Planning Site</a></li>
+<li class="TextNavigation"><a href="../Making Homepage.html">Making My Homepage</a></li>
+<li class="TextNavigation"><a href="../Making Subpages.html">Making My Subpages</a></li>
+<li class="TextNavigation"><a href="../WP6 Navigation.html">Navigations</a></li>
 </ul></div>
 </body>
 </html>

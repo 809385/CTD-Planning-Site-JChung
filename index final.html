@@ -40,19 +40,29 @@ Text Navigation {
 }
 Text navigation {
 	float: left;
+	list-style-type: none;
+	width: 150px;
+	
 }
 #apDiv3 ul {
-	float: none;
+	float: left;
+	width: 150px;
 }
 #apDiv3 ul .TextNavigation a {
 	float: left;
 	width: 150px;
 	list-style-type: none;
 }
+#apDiv3 .navlist {
+	list-style-type: none;
+	float: left;
+	width: 150px;
+}
 </style>
 </head>
 
 <body>
+<div id="apDiv2">
 <!-- InstanceBeginEditable name="EditRegion1" -->
 <link rel="stylesheet" type="text/css" href="WP1.css" />
 
@@ -227,10 +237,11 @@ Text navigation {
 </li></ul>
 </ul>
 <!-- InstanceEndEditable -->
-<div id="apDiv3"><ul>
-<li class="TextNavigation"><a href= "index.html">Planning Site</a></li>
-<li class="TextNavigation"><a href="Making Homepage.html">Making My Homepage</a></li>
-<li class="TextNavigation"><a href="Making Subpages.html">Making My Subpages</a></li>
+</div>
+<div id="apDiv3">
+<ul class="navlist">
+<li class="TextNavigation"><a href= "index.html">Planning Site</a></li><li class="TextNavigation"><a href="Making Homepage.html">Making My Homepage</a></li>
+<li class="TextNavigation"><a href="Making Subpages.html" class="TextNavigation">Making My Subpages</a></li>
 <li class="TextNavigation"><a href="WP6 Navigation.html">Navigations</a></li>
 </ul></div>
 </body>
