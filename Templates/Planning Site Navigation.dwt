@@ -1,10 +1,13 @@
 <html>
-    <head></head>
+    <head>
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
     <body>
         <h1>How My HOMEPAGE was created</h1>
        
-    <li><a href="htdocs/Index-FW2.htm">Firework Version</a></li>
-    <li><a href="htdocs/Index-FW3.htm">Firework Version 2</a></li>
+    <li><a href="../htdocs/Index-FW2.htm">Firework Version</a></li>
+    <li><a href="../htdocs/Index-FW3.htm">Firework Version 2</a></li>
         
         <p><strong>**EVALUATION</strong></p>
         <ul><li>For the second version, I changed the format of the webpage, so it is "user focused."--->instead of clicking on to the sign up button, I reduced one click by embedding the actual sign up form inside.</li></ul>
@@ -23,7 +26,7 @@
         
         
         
-         <li><a href="htdocs/index-DW.htm">Dreamweaver Version</a>
+         <li><a href="../htdocs/index-DW.htm">Dreamweaver Version</a>
         <p>How Dreamweaver is useful</p>
         <ul><li>Automatically finishes HTML code for us</li>
         <li>It is focused more on the coding</li>
@@ -33,17 +36,17 @@
         <ul><li>Unlike Fireworks where we can just choose our own fonts and colors and other elements, in dreamweaver we need to use CSS rules.</li></ul>
              
 <h2>Final Homepage made</h2>
-<img src= "flow%20chart%204.png" height="300px">
-<img src= "Final%20Wireframe%20mainpage.png" height="300px">
-<ul><li><a href = "Homepage.html">Final Dreamweaver version of Homepage</a></li></ul>
+<img src= "../flow chart 4.png" height="300px">
+<img src= "../Final Wireframe mainpage.png" height="300px">
+<ul><li><a href = "../Homepage.html">Final Dreamweaver version of Homepage</a></li></ul>
 <ul></ul>
              <h2>WHAT I LEARNT NEW FROM CREATING WEBPAGES</h2>
     <p><strong>1. How to embed a website into html?</strong></p>
     <p>We can use the code iframe src= "www..." just like how we embed images.</p>
-    <img src="Screen%20Shot%202015-01-28%20at%202.34.10%20PM.png"></a>
+    <img src="../Screen Shot 2015-01-28 at 2.34.10 PM.png"></a>
 <h4><strong>2.Research: Consistency in Webpages</strong></h4>
         <ul><li>Check list of keeping a website consistent</li></ul>
-        <img src="Checklist for consistency in websites.png"></a>
+        <img src="../Checklist for consistency in websites.png"></a>
     </body>
     
 </html>
